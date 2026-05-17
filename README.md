@@ -1,6 +1,6 @@
-<img src="https://launchpad.meme/assets/launchpad-logo.png" width="500" alt="" data-canonical-src="https://launchpad.meme/assets/launchpad-logo.png">  &nbsp;&nbsp;
+<img src="https://launchpad.meme/assets/launchpad-logo.png" width="400" alt="" data-canonical-src="https://launchpad.meme/assets/launchpad-logo.png">  &nbsp;&nbsp;
 
-# launchpad.meme Public API
+# Launchpad.meme Public API
 
 The launchpad.meme public API lets apps, launch tools, dashboards, and partner integrations create Solana token launches without automating the website UI.
 
