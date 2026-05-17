@@ -1,4 +1,4 @@
-<img src="https://launchpad.meme/assets/launchpad-logo.png" width="370" alt="" data-canonical-src="https://launchpad.meme/assets/launchpad-logo.png">  &nbsp;&nbsp;
+<a href="https://launchpad.meme"> <img src="https://launchpad.meme/assets/launchpad-logo.png" width="370" alt="" data-canonical-src="https://launchpad.meme/assets/launchpad-logo.png"></a>  &nbsp;&nbsp;
 
 # launchpad.meme Public API
 
